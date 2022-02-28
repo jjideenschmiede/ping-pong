@@ -1,4 +1,4 @@
-# Ping Pong
+# Ping Pong - WordPress Plugin
 
 This small wordpress plugin creates a new api endpoint, through which you can play ping pong with the system. This function is known for example from redis databases.
 
